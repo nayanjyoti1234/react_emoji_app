@@ -1,0 +1,44 @@
+.bt1{
+    padding: 40px 82px;
+    text-align: center;
+    display: inline-block;
+    font-size: 66px;
+  }
+.bt2{ 
+    padding: 40px 82px;
+    text-align: center;
+    display: inline-block;
+    font-size: 66px;
+  }
+.bt3{
+    padding: 40px 82px;
+    text-align: center;
+    display: inline-block;
+    font-size: 66px;
+  }
+.bt4{
+      padding: 40px 82px;
+      text-align: center;
+      display: inline-block;
+      font-size: 66px;
+  }
+.happy{
+       transform: scale(0.5);
+       height: 60vh;
+       background: url("./images/happy.png") center no-repeat;
+  }
+.sad{
+      transform:scale(0.5);
+      height: 60vh;
+      background: url("./images/sad.png") center no-repeat;
+    }
+.angry{
+      transform: scale(0.6);
+      height: 60vh;
+      background: url("./images/angry.png") center no-repeat;
+    }
+.smile{
+      transform: scale(0.8);
+      height: 60vh;
+      background: url("./images/smile.png") center no-repeat;
+    }
